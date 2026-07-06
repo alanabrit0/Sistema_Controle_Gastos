@@ -48,14 +48,6 @@ Implementar um sistema para controle de gastos residenciais, permitindo:
 
 ---
 
-## ✅ Critérios de Avaliação
-- Aderência às regras de negócio
-- Atenção aos detalhes
-- Qualidade e legibilidade do código
-- Boas práticas de desenvolvimento
-
----
-
 ## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
@@ -66,4 +58,4 @@ Implementar um sistema para controle de gastos residenciais, permitindo:
 ### Passos
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/alanabrit0/Sistema_Controle_Gastos.git
