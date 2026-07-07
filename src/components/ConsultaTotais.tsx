@@ -13,18 +13,16 @@ export function ConsultaTotais() {
   return (
     <div>
       <h2>Totais por Pessoa</h2>
-
-      {dados?.pessoas?.map((p: any) => (
-        <div key={p.nome}>
+      {dados?.Pessoas?.map((p: any) => (
+        <div key={p.Nome}>
           <p>
-            {p.nome} - Receitas: {p.receitas} | Despesas: {p.despesas} | Saldo: {p.saldo}
+            {p.Nome} - Receitas: {p.Receitas} | Despesas: {p.Despesas} | Saldo: {p.Saldo}
           </p>
         </div>
       ))}
-
       <h3>Total Geral</h3>
       <p>
-        Receitas: {dados.totalReceitas} | Despesas: {dados.totalDespesas} | Saldo: {dados.saldoGeral}
+        Receitas: {dados?.TotalReceitas} | Despesas: {dados?.TotalDespesas} | Saldo: {dados?.SaldoGeral}
       </p>
     </div>
   );
