@@ -50,4 +50,3 @@ Implementar um sistema para controle de gastos residenciais, permitindo:
 1. Clone o repositório:
    ```bash
    https://github.com/alanabrit0/Sistema_Controle_Gastos.git
->>>>>>> 72acbdddbbf23d0252066dcb2ddf4702f70a9c64
