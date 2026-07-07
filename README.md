@@ -39,15 +39,6 @@ Implementar um sistema para controle de gastos residenciais, permitindo:
 - Regras de negócio:
   - Se a pessoa for **menor de 18 anos**, só pode cadastrar **despesas**
 
-### Consulta de Totais
-- Listagem de todas as pessoas com:
-  - Total de receitas
-  - Total de despesas
-  - Saldo (receitas - despesas)
-- Exibição de totais gerais (somatório de todas as pessoas)
-
----
-
 ## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
